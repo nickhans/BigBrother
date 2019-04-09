@@ -1,0 +1,23 @@
+{
+  "name": "bigbrother",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickhans/BigBrother.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickhans/BigBrother/issues"
+  },
+  "homepage": "https://github.com/nickhans/BigBrother#readme",
+  "dependencies": {
+    "electron": "^4.1.4"
+  }
+}
